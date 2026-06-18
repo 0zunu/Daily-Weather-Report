@@ -2,69 +2,69 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 27.50,
+  "temperature_celsius": 26.94,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 27.49,
-  "temp_max_celsius": 27.50,
-  "humidity": 81,
-  "feels_like_celsius": 31.01,
-  "pressure": 1012,
+  "temp_min_celsius": 26.38,
+  "temp_max_celsius": 26.94,
+  "humidity": 82,
+  "feels_like_celsius": 29.79,
+  "pressure": 1011,
   "visibility": 10000,
-  "wind_deg": 116,
-  "gust_speed": 2.82,
-  "wind_speed": 1.75,
+  "wind_deg": 135,
+  "gust_speed": 2.61,
+  "wind_speed": 1.22,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 3,
-  "sunrise_readable": "2026-06-18 06:01:04",
-  "sunset_readable": "2026-06-18 17:46:15",
+  "clouds": 0,
+  "sunrise_readable": "2026-06-19 06:01:17",
+  "sunset_readable": "2026-06-19 17:46:27",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Southeast",
-  "weather_description_with_wind": "Wind Direction: East-Southeast",
+  "wind_direction_text": "Southeast",
+  "weather_description_with_wind": "Wind Direction: Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 27.50,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "01:00"
-          },          {
-            "temperature_celsius": 27.45,
+            "temperature_celsius": 27.26,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 28.05,
+            "temperature_celsius": 27.93,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 33.38,
+            "temperature_celsius": 33.33,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 34.11,
+            "temperature_celsius": 35.46,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 32.71,
+            "temperature_celsius": 34.28,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 30.78,
+            "temperature_celsius": 30.51,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 29.21,
+            "temperature_celsius": 28.99,
             "condition": "Clouds",
-            "icon_code": "02n",
+            "icon_code": "03n",
             "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 28.96,
+            "condition": "Clouds",
+            "icon_code": "03n",
+            "date_readable": "01:00"
           },
   ]
 }
